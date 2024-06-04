@@ -1,8 +1,5 @@
 # Style Guide
 
-> This document has been reviewed and discussed with
-> [@hsins](https://github.com/hsins).
->
 > For further reading, please see the definition of
 > [Convention over configuration in Wikipedia](https://en.wikipedia.org/wiki/Convention_over_configuration).
 
